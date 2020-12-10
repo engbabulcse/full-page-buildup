@@ -1,0 +1,158 @@
+Responsive:
+@media only screen and (min-device-width:320px) and (max-device-width:425px){
+
+*{
+
+}
+
+body{
+    /*background: url(../images/download\ \(2\).jpg);*/
+
+}
+h1, h2, h3, p{
+    margin: 0;
+    padding: 0;
+
+
+}
+.all-part{}
+
+.header{
+} 
+.header h3{
+ 
+}
+.header h1{
+   
+}
+.header p{
+   
+}
+/*nav*/
+nav{}
+nav ul{
+
+}
+nav ul li{
+
+
+    
+}
+nav ul li a{
+
+}
+nav ul li a:hover{
+    
+}
+
+
+
+
+.slider{
+
+}
+.box{
+    
+}
+.box h1{
+    
+    
+
+}
+.box p{
+   
+}
+/*slider*/
+
+.design{ 
+    
+}
+.left{
+    
+
+
+}
+.left a img{
+    
+.right{
+    
+}
+.right h1{
+    
+}
+.right p{
+
+}
+
+.product{
+}
+
+
+.nomargin
+{
+}
+.product{
+    
+}
+.product-1 img{
+    
+}
+.product-1 h1{
+    
+}
+del{
+    
+}
+.product-1 p{
+
+}
+
+.product-1 button{
+    
+    
+}
+.product-1  button:hover{
+
+}
+
+.footer{
+
+}
+.footer-1{
+
+}
+.footer-1 h1{
+    
+}
+.footer-1 a{
+
+}
+
+.boro {
+    
+    
+}
+.footer-1 ul{
+    
+
+}
+.footer-1 ul li{
+
+}
+.footer-1 ul li a{
+    
+}
+.footer-1 ul li a:hover{
+
+}
+.footer-1 img{
+
+}
+.footer-1 p{
+    
+}
+.footer-1 h3{
+    
+}
+
+}  
